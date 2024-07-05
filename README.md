@@ -1,7 +1,7 @@
 # Social Media Dashboard
 
 ## Introduction
-This is a power BI project on emotional well-being of social media users. The project aims to analyze and derie insights to answer crucial questions concerning social media usage.
+This is a power BI project on emotional well-being of social media users. The project aims to analyze and derive insights to answer crucial questions concerning social media usage.
 
 **Note that this is a dummy project and the data is restricted to a particular location.**
 
