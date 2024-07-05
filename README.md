@@ -23,7 +23,7 @@ You can find the data source [here](https://www.kaggle.com/datasets/emirhanai/so
 
 ## Visualization
 
-![Image description](https://github.com/Tobichukwu10/Social-Media-Dashboard/blob/main/Social%20Media%20Dashboard.PNG)
+![Image description](https://github.com/Tobichukwu10/Social-Media-Dashboard/blob/main/Social_Media_Dashboard.PNG)
 
 
 ## Conclusion
